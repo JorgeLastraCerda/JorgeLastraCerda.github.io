@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jorge Lastra"
   pronouns         : "he / him" # example: "she/her"  
-  bio              : "Community Psychologist and Data Scientist"
+  bio              : "Community Psychologist & Data Scientist - Bridging Data and Social Impact"
   location         : "Berlin, Germany"
-  employer         : # "Red Brick University"
+  employer         : "Kidz e.V."
   uri              : # URL
   email            : "jorgelastracerda@gmail.com" 
 
@@ -99,7 +99,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
