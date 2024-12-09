@@ -1,11 +1,11 @@
+---
 permalink: /
-title: "Jorge Lastra Cerda - Data Science and Social Impact"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from:
-
-/about/
-
-/about.html
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi, I’m Jorge Lastra Cerda, a data analyst and community psychologist passionate about using data to solve social challenges. My work bridges the worlds of data science, public policy, and psychology to create impactful, evidence-based solutions that drive societal change.
 
