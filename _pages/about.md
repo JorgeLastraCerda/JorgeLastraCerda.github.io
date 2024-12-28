@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **About Me**
 
 Hello! I’m Jorge, a community psychologist who’s always been fascinated by technology. I chose psychology to gain a human-focused perspective on social issues, and along the way, I realized how powerful data-driven research can be for creating real impact. Now, I’m excited to stand at the intersection of tech and the social sciences—combining tools like NLP and Python with insights from psychology, sociology, and policy to tackle challenges that matter.
