@@ -21,7 +21,7 @@ repository               : "jorgelastracerda/jorgelastracerda.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilpic.png"
   name             : "Jorge Lastra"
   pronouns         : "he / him" # example: "she/her"  
   bio              : "Community Psychologist & Data Scientist - Bridging Data and Social Impact"
