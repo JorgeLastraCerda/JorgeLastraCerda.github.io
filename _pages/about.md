@@ -59,5 +59,7 @@ For a detailed look at my responsibilities and achievements, ***download my CV**
 **Contact Me**
 
 [Email](mailto:jorgelastracerda@gmail.com)
+
 [GitHub](https://github.com/jorgelastracerda)
+
 [LinkedIn](https://www.linkedin.com/in/jorgelastracerda)
