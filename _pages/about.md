@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jorge Lastra's Portfolio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
