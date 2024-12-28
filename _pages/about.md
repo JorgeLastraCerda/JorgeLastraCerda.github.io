@@ -25,40 +25,39 @@ I’m currently experimenting with new tools and methodologies for my next proje
 **Experience & Collaborations**
 *Data & Policy*
 
-    Research Associate, MIDE UC
-    Developed academic reports and research on education and innovation, translating complex data into actionable insights.
+Research Associate, MIDE UC
+- Developed academic reports and research on education and innovation, translating complex data into actionable insights.
+Workshop Organizer & Facilitator (Ministry General Secretariat of Government, Chile)
+- Conducted training on Excel, Google Colab, and R for digital transformation and text analysis.
 
-    Workshop Organizer & Facilitator (Ministry General Secretariat of Government, Chile)
-    Conducted training on Excel, Google Colab, and R for digital transformation and text analysis.
+Policy Research (Merlin Research, Nicaragua Pre-Presidential Campaign)
+- Combined qualitative and quantitative approaches to inform strategic political decisions.
 
-    Policy Research (Merlin Research, Nicaragua Pre-Presidential Campaign)
-    Combined qualitative and quantitative approaches to inform strategic political decisions.
-
-    Research Assistant, “Proyecto Diálogos”
-    Analyzed a large linguistic corpus, supporting one of Chile’s major national research initiatives with data visualizations and discourse analysis.
+Research Assistant, “Proyecto Diálogos”
+- Analyzed a large linguistic corpus, supporting one of Chile’s major national research initiatives with data visualizations and discourse analysis.
 
 *Community & Education*
 
-    Educator & Project Coordinator, Kita Reh-Kids (Berlin)
-    Designs and implements child development projects and community-building initiatives, focusing on holistic education and nutritious meal programs.
+Educator & Project Coordinator, Kita Reh-Kidz & Familienzentrum Villa Lützow (Berlin)
+- Designs and implements child development projects and community-building initiatives, focusing on holistic education and nutritious meal programs.
 
-    Teaching Assistant, Public Policy Analysis (Universidad Alberto Hurtado)
-    Guided fifth-year psychology students in understanding policy processes and leveraging social science frameworks.
+Teaching Assistant, Public Policy Analysis (Universidad Alberto Hurtado)
+- Guided fifth-year psychology students in understanding policy processes and leveraging social science frameworks.
 
-    Intern & Community Intervention Coordinator, Portas Foundation
-    Conducted needs assessments and network outreach to enhance the foundation’s impact in underserved communities.
+Community Intervention Coordinator, Portas Foundation
+- Conducted needs assessments and network outreach to enhance the foundation’s impact in underserved communities.
 
 *Volunteer & Grassroots Involvement*
 
-    Eco-Organic Center Volunteer
-    Engaged in sustainable gardening, animal care, and harvest to support ecological practices.
-    Local Grassroots Movements & Assemblies
-    Contributed to community organizing, cultural initiatives, and participatory governance efforts.
+Eco-Organic Center Volunteer
+- Engaged in sustainable gardening, animal care, and harvest to support ecological practices.
+Local Grassroots Movements & Assemblies
+- Contributed to community organizing, cultural initiatives, and participatory governance efforts.
 
-For a detailed look at my responsibilities and achievements, Download My CV or connect with me on LinkedIn.
+For a detailed look at my responsibilities and achievements, ***download my CV*** or connect with me on LinkedIn.
 
 **Contact Me**
 
-    [Email](mailto:jorgelastracerda@gmail.com)
-    [GitHub](https://github.com/jorgelastracerda)
-    [LinkedIn](https://www.linkedin.com/in/jorgelastracerda)
+[Email](mailto:jorgelastracerda@gmail.com)
+[GitHub](https://github.com/jorgelastracerda)
+[LinkedIn](https://www.linkedin.com/in/jorgelastracerda)
