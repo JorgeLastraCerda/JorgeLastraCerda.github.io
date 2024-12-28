@@ -7,34 +7,58 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Jorge Lastra Cerda, a data analyst and community psychologist passionate about using data to solve social challenges. My work bridges the worlds of data science, public policy, and psychology to create impactful, evidence-based solutions that drive societal change.
-
 **About Me**
 
-With a background in psychology and a strong foundation in data science, I specialize in NLP, Python, SQL, and data visualization. My career journey has led me to tackle issues ranging from community well-being to policy analysis, driven by my commitment to social justice, equality, and effective governance. I believe in leveraging the power of data to inform better decision-making and improve lives.
+Hello! I’m Jorge, a community psychologist who’s always been fascinated by technology. I chose psychology to gain a human-focused perspective on social issues, and along the way, I realized how powerful data-driven research can be for creating real impact. Now, I’m excited to stand at the intersection of tech and the social sciences—combining tools like NLP and Python with insights from psychology, sociology, and policy to tackle challenges that matter.
+
+My work aims to drive equitable outcomes in areas like mental health, education, and community development. In my downtime, you’ll find me behind a drum set, exploring new music genres and collaborating with fellow musicians. Ultimately, I’m all about leveraging new ideas and tools for projects that spark meaningful change—because when technology and empathy meet, we can build a brighter, more inclusive future.
 
 **Featured Projects**
 
-NLP Analysis of Chilean Politicians’ Statements
+1. NLP Analysis of Chilean Politicians’ Statements
 
-Developed a tool to collect, clean, and analyze statements from Chilean politicians regarding recently passed laws. This project uses NLP techniques like sentiment analysis and topic modeling to uncover key insights into public discourse and promote transparency in governance.
+A data pipeline that collects and processes statements from Chilean politicians on recently passed laws, applying sentiment analysis and topic modeling to uncover key themes in public discourse. Built with Python and NLP libraries, this project highlights how data can drive transparency and accountability in governance.
+2. Work in Progress
 
-Work in Progress: NEW PRJECT
+I’m currently experimenting with new tools and methodologies for my next project—stay tuned for more details! My goal is to continue blending social science insights with data science techniques to foster positive social impact.
 
-Explore these and more in the Project Portfolio. (here I need an hyperlink)
+**Experience & Collaborations**
+*Data & Policy*
 
-**Skills**
+    Research Associate, MIDE UC
+    Developed academic reports and research on education and innovation, translating complex data into actionable insights.
 
-Technical Skills: Python, SQL, NLP, R, Data Visualization
+    Workshop Organizer & Facilitator (Ministry General Secretariat of Government, Chile)
+    Conducted training on Excel, Google Colab, and R for digital transformation and text analysis.
 
-Soft Skills: Public speaking, team collaboration, and leadership
+    Policy Research (Merlin Research, Nicaragua Pre-Presidential Campaign)
+    Combined qualitative and quantitative approaches to inform strategic political decisions.
 
-Certifications: View certifications on GitHub.
+    Research Assistant, “Proyecto Diálogos”
+    Analyzed a large linguistic corpus, supporting one of Chile’s major national research initiatives with data visualizations and discourse analysis.
 
-Values and Motivation
+*Community & Education*
 
-I am deeply motivated by my dedication to social impact and effective altruism, striving to make a measurable difference in the world through my work. My interests also extend to understanding the impact of technology on children and tackling climate change.
+    Educator & Project Coordinator, Kita Reh-Kids (Berlin)
+    Designs and implements child development projects and community-building initiatives, focusing on holistic education and nutritious meal programs.
 
-Contact Me
+    Teaching Assistant, Public Policy Analysis (Universidad Alberto Hurtado)
+    Guided fifth-year psychology students in understanding policy processes and leveraging social science frameworks.
 
-Want to collaborate or learn more about my work? Get in touch or explore my CV for more details.
+    Intern & Community Intervention Coordinator, Portas Foundation
+    Conducted needs assessments and network outreach to enhance the foundation’s impact in underserved communities.
+
+*Volunteer & Grassroots Involvement*
+
+    Eco-Organic Center Volunteer
+    Engaged in sustainable gardening, animal care, and harvest to support ecological practices.
+    Local Grassroots Movements & Assemblies
+    Contributed to community organizing, cultural initiatives, and participatory governance efforts.
+
+For a detailed look at my responsibilities and achievements, Download My CV or connect with me on LinkedIn.
+
+**Contact Me**
+
+    [Email](mailto:jorgelastracerda@gmail.com)
+    [GitHub](https://github.com/jorgelastracerda)
+    [LinkedIn](https://www.linkedin.com/in/jorgelastracerda)
